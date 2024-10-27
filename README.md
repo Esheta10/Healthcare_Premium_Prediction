@@ -9,21 +9,27 @@
 - User-friendly interface with dropdowns for easy data input.
 
 ### Installation
-1.Clone the repository :
-![image](https://github.com/user-attachments/assets/abc0f377-5439-4f9a-9b36-1e01111b8783)
 
-2.Navigate to the project directory :
-![image](https://github.com/user-attachments/assets/b81f6333-a2e9-44bb-9e25-1b4488c08355)
-
-3.Install the required dependencies :
-![image](https://github.com/user-attachments/assets/adb9b698-f8a5-4039-b9e1-5afc380c1228)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Usage
-1.Run the Streamlit app:
-![image](https://github.com/user-attachments/assets/67b3b1ff-eadf-449b-93f5-f0b20c88bc27)
 
-2.Open localhost:8501 in your browser to access the app.
-
+1. Run the Streamlit app:
+   ```bash
+   streamlit run main.py
+   ```
+2. Open `localhost:8501` in your browser to access the app.
 ### Project Structure
 - `main.py`: Contains the Streamlit app code.
 - `model.joblib`: Trained machine learning model for prediction.
