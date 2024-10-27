@@ -4,9 +4,9 @@
 
 
 ### Features
-*Predicts health insurance costs based on user input.
-*Factors in age, genetics, employment, lifestyle, and medical history.
-*User-friendly interface with dropdowns for easy data input.
+- Predicts health insurance costs based on user input.
+- Factors in age, genetics, employment, lifestyle, and medical history.
+- User-friendly interface with dropdowns for easy data input.
 
 ### Installation
 1.Clone the repository :
