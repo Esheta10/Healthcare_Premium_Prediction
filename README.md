@@ -25,21 +25,21 @@
 2.Open localhost:8501 in your browser to access the app.
 
 ### Project Structure
-main.py: Contains the Streamlit app code.
-model.joblib: Trained machine learning model for prediction.
-requirements.txt: Lists necessary dependencies.
-
+- `main.py`: Contains the Streamlit app code.
+- `model.joblib`: Trained machine learning model for prediction.
+- `requirements.txt`: Lists necessary dependencies.
+  
 ### Model Details
-Utilizes a trained machine learning model to predict insurance costs.
-Features include age, dependents, income, gender, BMI, smoking status, etc.
+- Utilizes a trained machine learning model to predict insurance costs.
+- Features include age, dependents, income, gender, BMI, smoking status, etc.
 
 ### Example
-Input Example:
 
-Age: 23
-Income: 1 lakh
-Smoking Status: Regular
-Output: Predicted Health Insurance Cost: 4996
+Input Example:
+- Age: 23
+- Income: 1 lakh
+- Smoking Status: Regular
+- Output: Predicted Health Insurance Cost: 4996
 
 ### License
 This project is licensed under the MIT License.
